@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void	ft_putstr(char *str);
+
+int main()
+{
+  ft_putstr("toto");
+  return 1;
+}
+
+void	ft_putstr(char *str)
+{
+  printf("%c",*str);
+  while(*str++ != '\0')
+    printf("%c",*str);
+}
