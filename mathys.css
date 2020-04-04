@@ -1,0 +1,26 @@
+header{
+	width:100%;
+	height:75px;
+	background-color:#80e5ff;
+	color:black;
+	font-family: Apple Chancery, cursive;
+	background:url("GTA_V_logo.jpg");
+
+}
+
+img {
+  padding: 5px;
+  width: 74px;
+}
+
+h1{
+		text-align:center;
+		bottom:20px;
+}
+
+#a{
+	text-decoration:none;
+}
+body{
+	background-color:transparent;
+}

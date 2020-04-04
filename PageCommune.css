@@ -1,0 +1,14 @@
+body{
+	height: 1000px;
+	width: 100%;
+	background-image: url("gta_image.jpg");
+	background-repeat:no-repeat;
+}
+#MathysPage{
+	height: 1000px;
+	width: 49%;
+}
+#MaloPage{
+	height: 1000px;
+	width: 49%;
+}
